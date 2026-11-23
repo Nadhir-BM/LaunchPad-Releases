@@ -1,16 +1,16 @@
 {
-  "tag_name": "v1.2.42",
-  "name": "LaunchPad v1.2.42",
-  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.42",
-  "body": "### 🚀 Nouveautés de LaunchPad v1.2.42\n\n- 📐 **Mise en Page Parfaitement Stable** : Le libellé explicatif de la couleur d’interface occupe désormais toute la largeur sur une ligne fixe, empêchant tout déplacement ou saut vertical du texte lors du changement de couleur.\n- 🎯 **Ancrage Précis des Commandes** : La pastille de couleur active et le bouton de réinitialisation restent solidement ancrés à droite sans aucune oscillation de mise en page.",
+  "tag_name": "v1.2.43",
+  "name": "LaunchPad v1.2.43",
+  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.43",
+  "body": "### 🚀 Nouveautés de LaunchPad v1.2.43\n\n- 🔒 **Protection Touch ID des Apps Masquées** : Le réaffichage d’une application masquée depuis *Réglages › Personnalisation* exige désormais votre empreinte Touch ID ou mot de passe macOS.\n- 🪪 **Fenêtre Touch ID Au Premier Plan** : La boîte de dialogue système Touch ID apparaît systématiquement au-dessus de la fenêtre des Réglages, sans jamais la fermer ni passer en arrière-plan.\n- 🎯 **Sélecteur de Couleur Centré** : La roue des couleurs personnalisée s’ouvre désormais parfaitement centrée au milieu des Réglages.",
   "assets": [
     {
-      "name": "LaunchPad-v1.2.42.zip",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.42/LaunchPad-v1.2.42.zip"
+      "name": "LaunchPad-v1.2.43.zip",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.43/LaunchPad-v1.2.43.zip"
     },
     {
-      "name": "LaunchPad-v1.2.42.dmg",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.42/LaunchPad-v1.2.42.dmg"
+      "name": "LaunchPad-v1.2.43.dmg",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.43/LaunchPad-v1.2.43.dmg"
     }
   ]
 }
