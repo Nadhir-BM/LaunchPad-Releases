@@ -1,16 +1,16 @@
 {
-  "tag_name": "v1.2.44",
-  "name": "LaunchPad v1.2.44",
-  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.44",
-  "body": "### 🚀 Nouveautés de LaunchPad v1.2.44\n\n- 🪟 **Icônes Liquid Glass Instantanées Après Activation Pro** : Correction d’un bug où l’activation de la licence LaunchPad Pro suivie du passage au thème Liquid Glass laissait les icônes dans leur style précédent.\n- ⚡ **Synchronisation Immédiate du Cache d’Icônes** : L’activation de la licence ou d’un essai gratuit invalide et régénère désormais automatiquement le cache des icônes et des tuiles sans redémarrage.",
+  "tag_name": "v1.2.45",
+  "name": "LaunchPad v1.2.45",
+  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.45",
+  "body": "### 🚀 Nouveautés de LaunchPad v1.2.45\n\n- 🌑 **Nouveau Mode Sombre « Obsidian Matte »** : Un noir d’encre profond (#060608 / #0A0A0D) 100 % mat et neutre, sans halo diffus, offrant une identité visuelle nettement plus sombre et distincte du thème Liquid Glass.\n- 🎛️ **Cartes & Contraste Renforcés** : Surfaces mates #111115 aux contours nets, textes blancs et gris froids haute lisibilité, et filet d’accentuation chirurgical au sommet des fenêtres.\n- 🌌 **Arrière-Plan Launchpad Plus Profond** : Assombrissement obsidienne porté à 84 % en mode Sombre pour faire ressortir vos icônes et widgets avec un contraste maximal.",
   "assets": [
     {
-      "name": "LaunchPad-v1.2.44.zip",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.44/LaunchPad-v1.2.44.zip"
+      "name": "LaunchPad-v1.2.45.zip",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.45/LaunchPad-v1.2.45.zip"
     },
     {
-      "name": "LaunchPad-v1.2.44.dmg",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.44/LaunchPad-v1.2.44.dmg"
+      "name": "LaunchPad-v1.2.45.dmg",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.45/LaunchPad-v1.2.45.dmg"
     }
   ]
 }
