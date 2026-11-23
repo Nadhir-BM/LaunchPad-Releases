@@ -1,16 +1,16 @@
 {
-  "tag_name": "v1.2.46",
-  "name": "LaunchPad v1.2.46",
-  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.46",
-  "body": "### 🚀 Nouveautés de LaunchPad v1.2.46\n\n- 💎 **Nouvelle Animation d’Activation Pro « Sapphire Neon Edge »** : Découvrez une carte 3D saphir sombre entourée d’une bordure lumineuse rotative aux couleurs de votre interface, avec filigrane LaunchPad gravé et badge LIFETIME.\n- 🖱️ **Inclinaison 3D & Reflet Interactifs** : La carte réagit en temps réel aux mouvements de votre curseur avec un effet de perspective 3D fluide et un reflet spéculaire dynamique.\n- ✨ **Présentation Compacte des Avantages Pro** : Grille 2×2 épurée harmonisée avec le thème Obsidian Matte et bouton d’action dynamique assorti à votre couleur d’accentuation.\n- 🎨 **Correction de la Carte Icônes & Logos** : Remplacement de l’icône et du libellé erronés sur la troisième ligne des fonctionnalités Pro débloquées.",
+  "tag_name": "v1.2.47",
+  "name": "LaunchPad v1.2.47",
+  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.47",
+  "body": "### 🚀 Nouveautés de LaunchPad v1.2.47\n\n- ✨ **En-tête Licence Épuré en Version Pro** : Une fois votre licence LaunchPad Pro activée, le sous-titre promotionnel d’essai gratuit disparaît automatiquement sous l’en-tête « Licence » pour une présentation plus sobre et soignée.",
   "assets": [
     {
-      "name": "LaunchPad-v1.2.46.zip",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.46/LaunchPad-v1.2.46.zip"
+      "name": "LaunchPad-v1.2.47.zip",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.47/LaunchPad-v1.2.47.zip"
     },
     {
-      "name": "LaunchPad-v1.2.46.dmg",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.46/LaunchPad-v1.2.46.dmg"
+      "name": "LaunchPad-v1.2.47.dmg",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.47/LaunchPad-v1.2.47.dmg"
     }
   ]
 }
