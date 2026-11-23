@@ -1,16 +1,16 @@
 {
-  "tag_name": "v1.2.36",
-  "name": "LaunchPad v1.2.36",
-  "html_url": "https://github.com/NadhirBM74/LaunchPad-Releases/releases/tag/v1.2.36",
-  "body": "### 🚀 Nouveautés de LaunchPad v1.2.36\n\n- 🔒 **Distribution Sécurisée via Dépôt Dédié** : Séparation complète du code source privé et du canal officiel de distribution des mises à jour via LaunchPad-Releases.\n- ⚡ **Mises à Jour Automatiques Toujours Instantanées** : Connexion directe de l'application au canal public de versions pour détecter, télécharger et installer chaque nouvelle mise à jour en un clic.\n- 🤖 **Synchronisation Discord et Liens Pro Actualisés** : Redirection automatique des annonces de versions et des liens de l'application vers le dépôt officiel de distribution.",
+  "tag_name": "v1.2.38",
+  "name": "LaunchPad v1.2.38",
+  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.38",
+  "body": "### 🚀 Nouveautés de LaunchPad v1.2.38\n\n- 🎨 **Couleur de l’Interface Personnalisable** : Choisissez librement la couleur d’accentuation des réglages et fenêtres grâce à 8 palettes exclusives ou au sélecteur de couleur macOS natif.\n- ✨ **Aperçu Temps Réel Instantané** : La bordure lumineuse, le halo d’en-tête, les interrupteurs, les curseurs et les badges se mettent à jour en direct sans rouvrir les réglages.\n- 🪟 **Cohérence Visuelle sur Toutes les Fenêtres** : La nouvelle couleur choisie s’adapte automatiquement aux modes Clair, Sombre et Liquid Glass ainsi qu’à la Galerie de Widgets.\n- ⚡ **Réinitialisation & Sauvegarde Intégrées** : Revenez au Violet Velvet d’origine en un clic et retrouvez votre teinte préférée dans vos sauvegardes et profils.\n- 🌍 **Traductions Complètes** : Prise en charge intégrale des nouvelles options et nuances en français, anglais, allemand, espagnol, italien et portugais.",
   "assets": [
     {
-      "name": "LaunchPad-v1.2.36.zip",
-      "browser_download_url": "https://github.com/NadhirBM74/LaunchPad-Releases/releases/download/v1.2.36/LaunchPad-v1.2.36.zip"
+      "name": "LaunchPad-v1.2.38.zip",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.38/LaunchPad-v1.2.38.zip"
     },
     {
-      "name": "LaunchPad-v1.2.36.dmg",
-      "browser_download_url": "https://github.com/NadhirBM74/LaunchPad-Releases/releases/download/v1.2.36/LaunchPad-v1.2.36.dmg"
+      "name": "LaunchPad-v1.2.38.dmg",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.38/LaunchPad-v1.2.38.dmg"
     }
   ]
 }

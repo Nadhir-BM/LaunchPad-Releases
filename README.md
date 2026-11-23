@@ -4,7 +4,7 @@ Une réinvention moderne, fluide et personnalisable du Launchpad pour macOS, dé
 
 ![macOS](https://img.shields.io/badge/macOS-14.0+-blue?logo=apple)
 ![License](https://img.shields.io/badge/License-Proprietary-red)
-![Release](https://img.shields.io/github/v/release/NadhirBM74/LaunchPad-Releases?color=purple)
+![Release](https://img.shields.io/github/v/release/Nadhir-BM/LaunchPad-Releases?color=purple)
 
 ---
 
@@ -23,7 +23,7 @@ Une réinvention moderne, fluide et personnalisable du Launchpad pour macOS, dé
 
 ## 📥 Téléchargement & Installation
 
-Téléchargez la dernière version depuis la section **[Releases](https://github.com/NadhirBM74/LaunchPad-Releases/releases)** :
+Téléchargez la dernière version depuis la section **[Releases](https://github.com/Nadhir-BM/LaunchPad-Releases/releases)** :
 - **LaunchPad.dmg** (Image disque prête à l'emploi)
 - **LaunchPad.zip** (Archive autonome)
 
@@ -32,4 +32,4 @@ Téléchargez la dernière version depuis la section **[Releases](https://github
 ## 👤 Auteur
 
 **Nadhir Ben Mabrouk**
-- GitHub : [@NadhirBM74](https://github.com/NadhirBM74)
+- GitHub : [@Nadhir-BM](https://github.com/Nadhir-BM)
