@@ -1,16 +1,16 @@
 {
-  "tag_name": "v1.2.43",
-  "name": "LaunchPad v1.2.43",
-  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.43",
-  "body": "### 🚀 Nouveautés de LaunchPad v1.2.43\n\n- 🔒 **Protection Touch ID des Apps Masquées** : Le réaffichage d’une application masquée depuis *Réglages › Personnalisation* exige désormais votre empreinte Touch ID ou mot de passe macOS.\n- 🪪 **Fenêtre Touch ID Au Premier Plan** : La boîte de dialogue système Touch ID apparaît systématiquement au-dessus de la fenêtre des Réglages, sans jamais la fermer ni passer en arrière-plan.\n- 🎯 **Sélecteur de Couleur Centré** : La roue des couleurs personnalisée s’ouvre désormais parfaitement centrée au milieu des Réglages.",
+  "tag_name": "v1.2.44",
+  "name": "LaunchPad v1.2.44",
+  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.44",
+  "body": "### 🚀 Nouveautés de LaunchPad v1.2.44\n\n- 🪟 **Icônes Liquid Glass Instantanées Après Activation Pro** : Correction d’un bug où l’activation de la licence LaunchPad Pro suivie du passage au thème Liquid Glass laissait les icônes dans leur style précédent.\n- ⚡ **Synchronisation Immédiate du Cache d’Icônes** : L’activation de la licence ou d’un essai gratuit invalide et régénère désormais automatiquement le cache des icônes et des tuiles sans redémarrage.",
   "assets": [
     {
-      "name": "LaunchPad-v1.2.43.zip",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.43/LaunchPad-v1.2.43.zip"
+      "name": "LaunchPad-v1.2.44.zip",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.44/LaunchPad-v1.2.44.zip"
     },
     {
-      "name": "LaunchPad-v1.2.43.dmg",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.43/LaunchPad-v1.2.43.dmg"
+      "name": "LaunchPad-v1.2.44.dmg",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.44/LaunchPad-v1.2.44.dmg"
     }
   ]
 }
