@@ -1,16 +1,16 @@
 {
-  "tag_name": "v1.2.39",
-  "name": "LaunchPad v1.2.39",
-  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.39",
-  "body": "### 🚀 Nouveautés de LaunchPad v1.2.39\n\n- 🎨 **Sélecteur de Couleur Au Premier Plan** : Lorsque vous personnalisez la couleur de l’interface, la roue des couleurs macOS s’ouvre désormais nettement au-dessus des réglages et du Launchpad, sans jamais passer derrière les fenêtres ou les widgets.\n- 🪟 **Positionnement Automatique Soigné** : La fenêtre de couleur s’aligne directement sur la zone active des réglages et adopte son thème Clair ou Sombre pour un aperçu en direct confortable.\n- ⚡ **Fermeture & Synchronisation Intelligentes** : Le sélecteur libre se masque automatiquement lorsque vous fermez les réglages ou choisissez une palette prédéfinie.",
+  "tag_name": "v1.2.40",
+  "name": "LaunchPad v1.2.40",
+  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.40",
+  "body": "### 🚀 Nouveautés de LaunchPad v1.2.40\n\n- 🎨 **Roue des Couleurs Toujours au Premier Plan** : Verrouillage WindowServer (`addChildWindow` + niveau prioritaire) garantissant que la roue des couleurs macOS reste devant les Réglages et le Launchpad même lors des clics ou déplacements.\n- 🧹 **Nettoyage & Mise à Jour Fiabilisés** : Vérification directe de l’empilement réel des fenêtres macOS dans la suite de tests et synchronisation propre lors de la fermeture des réglages.",
   "assets": [
     {
-      "name": "LaunchPad-v1.2.39.zip",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.39/LaunchPad-v1.2.39.zip"
+      "name": "LaunchPad-v1.2.40.zip",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.40/LaunchPad-v1.2.40.zip"
     },
     {
-      "name": "LaunchPad-v1.2.39.dmg",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.39/LaunchPad-v1.2.39.dmg"
+      "name": "LaunchPad-v1.2.40.dmg",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.40/LaunchPad-v1.2.40.dmg"
     }
   ]
 }
