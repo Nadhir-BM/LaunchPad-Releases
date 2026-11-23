@@ -1,16 +1,16 @@
 {
-  "tag_name": "v1.2.41",
-  "name": "LaunchPad v1.2.41",
-  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.41",
-  "body": "### 🚀 Nouveautés de LaunchPad v1.2.41\n\n- ✅ **Stabilité du Badge de Certification** : Correction d'un décalage visuel dans l'en-tête des Réglages où la rosace animée pouvait glisser hors de sa coche centrale lors du premier affichage.\n- ✨ **Animation Vectorielle Parfaite** : Rotation désormais isolée sur l'axe central après stabilisation complète de la mise en page pour un alignement impeccable.",
+  "tag_name": "v1.2.42",
+  "name": "LaunchPad v1.2.42",
+  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.42",
+  "body": "### 🚀 Nouveautés de LaunchPad v1.2.42\n\n- 📐 **Mise en Page Parfaitement Stable** : Le libellé explicatif de la couleur d’interface occupe désormais toute la largeur sur une ligne fixe, empêchant tout déplacement ou saut vertical du texte lors du changement de couleur.\n- 🎯 **Ancrage Précis des Commandes** : La pastille de couleur active et le bouton de réinitialisation restent solidement ancrés à droite sans aucune oscillation de mise en page.",
   "assets": [
     {
-      "name": "LaunchPad-v1.2.41.zip",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.41/LaunchPad-v1.2.41.zip"
+      "name": "LaunchPad-v1.2.42.zip",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.42/LaunchPad-v1.2.42.zip"
     },
     {
-      "name": "LaunchPad-v1.2.41.dmg",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.41/LaunchPad-v1.2.41.dmg"
+      "name": "LaunchPad-v1.2.42.dmg",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.42/LaunchPad-v1.2.42.dmg"
     }
   ]
 }
