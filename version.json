@@ -1,0 +1,16 @@
+{
+  "tag_name": "v1.2.36",
+  "name": "LaunchPad v1.2.36",
+  "html_url": "https://github.com/NadhirBM74/LaunchPad-Releases/releases/tag/v1.2.36",
+  "body": "### 🚀 Nouveautés de LaunchPad v1.2.36\n\n- 🔒 **Distribution Sécurisée via Dépôt Dédié** : Séparation complète du code source privé et du canal officiel de distribution des mises à jour via LaunchPad-Releases.\n- ⚡ **Mises à Jour Automatiques Toujours Instantanées** : Connexion directe de l'application au canal public de versions pour détecter, télécharger et installer chaque nouvelle mise à jour en un clic.\n- 🤖 **Synchronisation Discord et Liens Pro Actualisés** : Redirection automatique des annonces de versions et des liens de l'application vers le dépôt officiel de distribution.",
+  "assets": [
+    {
+      "name": "LaunchPad-v1.2.36.zip",
+      "browser_download_url": "https://github.com/NadhirBM74/LaunchPad-Releases/releases/download/v1.2.36/LaunchPad-v1.2.36.zip"
+    },
+    {
+      "name": "LaunchPad-v1.2.36.dmg",
+      "browser_download_url": "https://github.com/NadhirBM74/LaunchPad-Releases/releases/download/v1.2.36/LaunchPad-v1.2.36.dmg"
+    }
+  ]
+}
