@@ -1,16 +1,16 @@
 {
-  "tag_name": "v1.2.40",
-  "name": "LaunchPad v1.2.40",
-  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.40",
-  "body": "### 🚀 Nouveautés de LaunchPad v1.2.40\n\n- 🎨 **Roue des Couleurs Toujours au Premier Plan** : Verrouillage WindowServer (`addChildWindow` + niveau prioritaire) garantissant que la roue des couleurs macOS reste devant les Réglages et le Launchpad même lors des clics ou déplacements.\n- 🧹 **Nettoyage & Mise à Jour Fiabilisés** : Vérification directe de l’empilement réel des fenêtres macOS dans la suite de tests et synchronisation propre lors de la fermeture des réglages.",
+  "tag_name": "v1.2.41",
+  "name": "LaunchPad v1.2.41",
+  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.41",
+  "body": "### 🚀 Nouveautés de LaunchPad v1.2.41\n\n- ✅ **Stabilité du Badge de Certification** : Correction d'un décalage visuel dans l'en-tête des Réglages où la rosace animée pouvait glisser hors de sa coche centrale lors du premier affichage.\n- ✨ **Animation Vectorielle Parfaite** : Rotation désormais isolée sur l'axe central après stabilisation complète de la mise en page pour un alignement impeccable.",
   "assets": [
     {
-      "name": "LaunchPad-v1.2.40.zip",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.40/LaunchPad-v1.2.40.zip"
+      "name": "LaunchPad-v1.2.41.zip",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.41/LaunchPad-v1.2.41.zip"
     },
     {
-      "name": "LaunchPad-v1.2.40.dmg",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.40/LaunchPad-v1.2.40.dmg"
+      "name": "LaunchPad-v1.2.41.dmg",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.41/LaunchPad-v1.2.41.dmg"
     }
   ]
 }
