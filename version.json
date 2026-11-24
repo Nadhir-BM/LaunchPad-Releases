@@ -1,16 +1,16 @@
 {
-  "tag_name": "v1.2.60",
-  "name": "LaunchPad v1.2.60",
-  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.60",
-  "body": "### 🚀 Nouveautés de LaunchPad v1.2.60\n\n- 💎 **Dossiers Liquid Glass à Opacité Équilibrée (Modèle L6)** : Les dossiers ouverts et fermés retrouvent le vrai verre Liquid Glass natif de macOS 26 combiné à une opacité teintée renforcée pour garder la profondeur du verre tout en garantissant une lisibilité impeccable des icônes.\n- 🪟 **Zéro Reflet d’Icônes & Bordure Prismatique Statique** : L’architecture en trois couches découplées empêche les icônes de se refléter sur les bordures des dossiers de la Bibliothèque, sans aucune lumière suivant le curseur.\n- ⚡ **Fluidité 120 Hz Préservée** : Passage WindowServer unifié pour tous les dossiers de la Bibliothèque et ombres vectorielles découplées pour des animations parfaitement fluides.",
+  "tag_name": "v1.2.61",
+  "name": "LaunchPad v1.2.61",
+  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.61",
+  "body": "### 🚀 Nouveautés de LaunchPad v1.2.61\n\n- 📐 **Dossiers Ouverts Agrandis dans la Bibliothèque d’Applications** : Augmentation de la hauteur et de la marge inférieure des dossiers ouverts de la page de gauche afin que la dernière rangée d’icônes et leurs noms respirent confortablement au-dessus de la bordure.\n- 🪟 **Calcul Exact de la Hauteur de Grille** : Prise en compte précise de la taille des tuiles, des espacements et des marges verticales pour afficher davantage d’applications d’un seul coup d’œil sans rognage.",
   "assets": [
     {
-      "name": "LaunchPad-v1.2.60.zip",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.60/LaunchPad-v1.2.60.zip"
+      "name": "LaunchPad-v1.2.61.zip",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.61/LaunchPad-v1.2.61.zip"
     },
     {
-      "name": "LaunchPad-v1.2.60.dmg",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.60/LaunchPad-v1.2.60.dmg"
+      "name": "LaunchPad-v1.2.61.dmg",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.61/LaunchPad-v1.2.61.dmg"
     }
   ]
 }
