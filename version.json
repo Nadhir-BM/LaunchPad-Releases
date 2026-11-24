@@ -1,16 +1,16 @@
 {
-  "tag_name": "v1.2.70",
-  "name": "LaunchPad v1.2.70",
-  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.70",
-  "body": "### 🚀 Nouveautés de LaunchPad v1.2.70\n\n- 📂 **Dossiers Apple Placés Directement en Dernier** : Les dossiers contenant les applications Apple par défaut (Internet & Maison, Productivité, Multimédia, Utilitaires, Jeux) apparaissent désormais immédiatement à la suite de la dernière application, sans créer de page séparée presque vide.\n- 🔄 **Position Préservée Lors des Ajouts et Réorganisations** : Les nouvelles applications installées s’insèrent automatiquement avant les dossiers Apple par défaut, et la réorganisation automatique conserve ces dossiers en dernière position.\n- ✨ **Grille Plus Compacte et Équilibrée** : Suppression du saut de page artificiel pour profiter pleinement de chaque page de votre LaunchPad.",
+  "tag_name": "v1.2.71",
+  "name": "LaunchPad v1.2.71",
+  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.71",
+  "body": "### 🚀 Nouveautés de LaunchPad v1.2.71\n\n- 💎 **Liquid Glass Instantané sur les Dossiers et la Bibliothèque** : L’activation de n’importe quel style d’icônes Liquid Glass (Verre Sombre, Verre Givré, Verre Liquide ou Transparent Cristal) applique immédiatement l’effet Liquid Glass aux dossiers de la grille principale et au menu de gauche, même si le thème était resté sur Sombre ou Clair.\n- 🚀 **Détection des Mises à Jour en Temps Réel** : Le gestionnaire de mise à jour interroge désormais en priorité l’API GitHub sans délai de cache CDN (5 minutes auparavant) avec repli CDN anti-cache horodaté, détectant les nouvelles versions en moins d’une seconde.\n- ⚡ **Rafraîchissement Immédiat des Tuiles** : Les changements de thème de fond mettent instantanément à jour le cache des dossiers sans attente.",
   "assets": [
     {
-      "name": "LaunchPad-v1.2.70.zip",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.70/LaunchPad-v1.2.70.zip"
+      "name": "LaunchPad-v1.2.71.zip",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.71/LaunchPad-v1.2.71.zip"
     },
     {
-      "name": "LaunchPad-v1.2.70.dmg",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.70/LaunchPad-v1.2.70.dmg"
+      "name": "LaunchPad-v1.2.71.dmg",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.71/LaunchPad-v1.2.71.dmg"
     }
   ]
 }
