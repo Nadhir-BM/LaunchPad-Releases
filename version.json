@@ -1,16 +1,16 @@
 {
-  "tag_name": "v1.2.52",
-  "name": "LaunchPad v1.2.52",
-  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.52",
-  "body": "### 🚀 Nouveautés de LaunchPad v1.2.52\n\n- 🔒 **Protection Touch ID pour les Applications** : Verrouillez désormais n’importe quelle application individuelle avec Touch ID (clic droit › Protéger par Touch ID), en plus des dossiers.\n- 🛡️ **Verrouillage Intégral Partout** : Les applications protégées affichent un badge cadenas discret sur la grille, dans les dossiers, la recherche et la barre de favoris, et demandent Touch ID avant toute ouverture ou suppression du verrou.\n- 💾 **Sauvegarde Automatique** : La liste des applications verrouillées est conservée automatiquement dans vos préférences et incluse dans les sauvegardes LaunchPad.",
+  "tag_name": "v1.2.53",
+  "name": "LaunchPad v1.2.53",
+  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.53",
+  "body": "### 🚀 Nouveautés de LaunchPad v1.2.53\n\n- 🪟 **Bibliothèque d’Applications Liquid Glass** : Depuis la première page du Launchpad, balayez vers la droite ou cliquez sur la nouvelle icône de grille en bas de l’écran pour accéder à toutes vos applications classées automatiquement par catégories.\n- ✨ **Panneaux Indépendants en Verre Dépoli** : Retrouvez vos apps réparties dans des cartes Liquid Glass translucides à coins arrondis (*Ouvertes récemment*, *Productivité*, *Utilitaires*, *Graphisme & Design*, *Outils de développement*, *Musique*, *Photo & Vidéo*, *Social*, *Masquées*…).\n- ⏱️ **Suivi Automatique des Apps Récentes** : La catégorie *Ouvertes récemment* se met à jour en direct à chaque lancement sans doublon, avec vos icônes haute résolution intactes et lancement direct en 1 clic.\n- 🔍 **Recherche Instantanée par App & Catégorie** : La barre de recherche centrée filtre en temps réel les applications et noms de catégories sans rechargement, avec lancement rapide via Entrée.\n- 🔒 **Dossier Masquées Sécurisé Touch ID** : Vos applications masquées restent protégées derrière Touch ID et peuvent être consultées ou réaffichées en un clic après authentification.",
   "assets": [
     {
-      "name": "LaunchPad-v1.2.52.zip",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.52/LaunchPad-v1.2.52.zip"
+      "name": "LaunchPad-v1.2.53.zip",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.53/LaunchPad-v1.2.53.zip"
     },
     {
-      "name": "LaunchPad-v1.2.52.dmg",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.52/LaunchPad-v1.2.52.dmg"
+      "name": "LaunchPad-v1.2.53.dmg",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.53/LaunchPad-v1.2.53.dmg"
     }
   ]
 }
