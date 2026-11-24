@@ -1,16 +1,16 @@
 {
-  "tag_name": "v1.2.51",
-  "name": "LaunchPad v1.2.51",
-  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.51",
-  "body": "### 🚀 Nouveautés de LaunchPad v1.2.51\n\n- ✨ **Validation de Licence Plus Épurée** : Suppression de la bannière d’erreur texte lors d’une clé invalide pour ne conserver que l’animation visuelle (secousse amortie, flash rouge lumineux et retour haptique) directement sur le champ de saisie.",
+  "tag_name": "v1.2.52",
+  "name": "LaunchPad v1.2.52",
+  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.52",
+  "body": "### 🚀 Nouveautés de LaunchPad v1.2.52\n\n- 🔒 **Protection Touch ID pour les Applications** : Verrouillez désormais n’importe quelle application individuelle avec Touch ID (clic droit › Protéger par Touch ID), en plus des dossiers.\n- 🛡️ **Verrouillage Intégral Partout** : Les applications protégées affichent un badge cadenas discret sur la grille, dans les dossiers, la recherche et la barre de favoris, et demandent Touch ID avant toute ouverture ou suppression du verrou.\n- 💾 **Sauvegarde Automatique** : La liste des applications verrouillées est conservée automatiquement dans vos préférences et incluse dans les sauvegardes LaunchPad.",
   "assets": [
     {
-      "name": "LaunchPad-v1.2.51.zip",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.51/LaunchPad-v1.2.51.zip"
+      "name": "LaunchPad-v1.2.52.zip",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.52/LaunchPad-v1.2.52.zip"
     },
     {
-      "name": "LaunchPad-v1.2.51.dmg",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.51/LaunchPad-v1.2.51.dmg"
+      "name": "LaunchPad-v1.2.52.dmg",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.52/LaunchPad-v1.2.52.dmg"
     }
   ]
 }
