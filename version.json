@@ -1,16 +1,16 @@
 {
-  "tag_name": "v1.2.68",
-  "name": "LaunchPad v1.2.68",
-  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.68",
-  "body": "### 🚀 Nouveautés de LaunchPad v1.2.68\n\n- 🎯 **Titres des Dossiers Parfaitement Centrés** : Tous les titres de dossiers ouverts (grille principale, Bibliothèque d’applications et gestionnaire d’apps) sont désormais centrés mathématiquement au milieu de l’en-tête.\n- ⎋ **Pastille ESC Épurée** : L’indicateur de sortie dans les dossiers affiche uniquement « ESC » dans une pastille compacte et cliquable, adaptée aux modes Sombre et Clair.\n- ✨ **En-têtes Plus Équilibrés** : Suppression du décalage visuel provoqué par le texte long de raccourci pour des fenêtres de dossiers plus propres et symétriques.",
+  "tag_name": "v1.2.69",
+  "name": "LaunchPad v1.2.69",
+  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.69",
+  "body": "### 🚀 Nouveautés de LaunchPad v1.2.69\n\n- 🎨 **Apparence Système Accessible Sans Licence** : La section de style d’icônes s’affiche désormais aussi en version gratuite avec uniquement les choix Apparence Système (Sombre, Clair, Teinté) et Couleur de base macOS, présentés en pleine largeur.\n- 💎 **Icônes Liquid Glass Exclusives à la Licence Pro** : La vitrine Icônes Liquid Glass (Verre Sombre, Verre Givré, Verre Liquide) ainsi que Transparent Cristal sont masquées sans licence et strictement réservées aux utilisateurs Pro.\n- 📋 **Tableau Comparatif Synchronisé** : L’écran Licence reflète fidèlement l’inclusion de l’Apparence Système en version gratuite et l’exclusivité Pro des styles Liquid Glass.",
   "assets": [
     {
-      "name": "LaunchPad-v1.2.68.zip",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.68/LaunchPad-v1.2.68.zip"
+      "name": "LaunchPad-v1.2.69.zip",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.69/LaunchPad-v1.2.69.zip"
     },
     {
-      "name": "LaunchPad-v1.2.68.dmg",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.68/LaunchPad-v1.2.68.dmg"
+      "name": "LaunchPad-v1.2.69.dmg",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.69/LaunchPad-v1.2.69.dmg"
     }
   ]
 }
