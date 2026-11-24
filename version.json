@@ -1,16 +1,16 @@
 {
-  "tag_name": "v1.2.48",
-  "name": "LaunchPad v1.2.48",
-  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.48",
-  "body": "### 🚀 Nouveautés de LaunchPad v1.2.48\n\n- ⏳ **Indication d’Essai Expiré sous l’En-tête Licence** : Lorsque l’essai gratuit de 7 jours est dépassé ou désactivé, l’en-tête « Licence » indique désormais clairement que la période d’essai est expirée (en 6 langues).\n- ✨ **En-tête Sobre en Version Pro** : Une fois la licence LaunchPad Pro activée, aucun sous-titre n’apparaît sous « Licence » pour un affichage totalement épuré.",
+  "tag_name": "v1.2.49",
+  "name": "LaunchPad v1.2.49",
+  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.49",
+  "body": "### 🚀 Nouveautés de LaunchPad v1.2.49\n\n- 💎 **Carte d’Activation Pro Plus Épurée** : Suppression de la mention « SAPPHIRE EDITION » sur la carte 3D d’activation de licence pour mettre uniquement en valeur le titre « LaunchPad Pro ».",
   "assets": [
     {
-      "name": "LaunchPad-v1.2.48.zip",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.48/LaunchPad-v1.2.48.zip"
+      "name": "LaunchPad-v1.2.49.zip",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.49/LaunchPad-v1.2.49.zip"
     },
     {
-      "name": "LaunchPad-v1.2.48.dmg",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.48/LaunchPad-v1.2.48.dmg"
+      "name": "LaunchPad-v1.2.49.dmg",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.49/LaunchPad-v1.2.49.dmg"
     }
   ]
 }
