@@ -1,16 +1,16 @@
 {
-  "tag_name": "v1.2.50",
-  "name": "LaunchPad v1.2.50",
-  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.50",
-  "body": "### 🚀 Nouveautés de LaunchPad v1.2.50\n\n- ⚠️ **Animation de Clé de Licence Incorrecte** : Lorsqu’une clé invalide est saisie, le champ de licence et la bannière d’erreur effectuent une secousse amortie façon macOS accompagnée d’un flash rouge lumineux, d’un rebond de l’icône d’alerte et d’un retour haptique.\n- ✨ **Validation Plus Fluide** : Ajout d’un indicateur de vérification pendant l’envoi en ligne et effacement automatique de l’état d’erreur dès que vous corrigez votre saisie.",
+  "tag_name": "v1.2.51",
+  "name": "LaunchPad v1.2.51",
+  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.51",
+  "body": "### 🚀 Nouveautés de LaunchPad v1.2.51\n\n- ✨ **Validation de Licence Plus Épurée** : Suppression de la bannière d’erreur texte lors d’une clé invalide pour ne conserver que l’animation visuelle (secousse amortie, flash rouge lumineux et retour haptique) directement sur le champ de saisie.",
   "assets": [
     {
-      "name": "LaunchPad-v1.2.50.zip",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.50/LaunchPad-v1.2.50.zip"
+      "name": "LaunchPad-v1.2.51.zip",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.51/LaunchPad-v1.2.51.zip"
     },
     {
-      "name": "LaunchPad-v1.2.50.dmg",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.50/LaunchPad-v1.2.50.dmg"
+      "name": "LaunchPad-v1.2.51.dmg",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.51/LaunchPad-v1.2.51.dmg"
     }
   ]
 }
