@@ -1,16 +1,16 @@
 {
-  "tag_name": "v1.2.64",
-  "name": "LaunchPad v1.2.64",
-  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.64",
-  "body": "### 🚀 Nouveautés de LaunchPad v1.2.64\n\n- 🎨 **Couleurs d’Application Préservées en Modes Sombre & Clair** : En choisissant le style d’icônes Sombre ou Clair, seul le fond squircle de chaque icône devient sombre ou clair tandis que le symbole de chaque application conserve intégralement ses couleurs d’origine.\n- ✨ **Coloration Intelligente des Glyphes Blancs** : Les applications à fond coloré (Messages, Musique, App Store, Discord, WhatsApp…) reportent leur couleur signature vive sur leur symbole afin de rester instantanément reconnaissables aussi bien sur fond sombre que sur fond clair.\n- 🖼️ **Uniformisation des Icônes Libres & Cache Automatique** : Les logos sans cadre reçoivent automatiquement le squircle sombre ou clair assorti et le cache disque se régénère proprement dès le lancement.",
+  "tag_name": "v1.2.65",
+  "name": "LaunchPad v1.2.65",
+  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.65",
+  "body": "### 🚀 Nouveautés de LaunchPad v1.2.65\n\n- 🌗 **Dossiers et Bibliothèque Sans Liquid Glass en Modes Sombre, Clair et Teinté** : Dès qu’un style d’Apparence Système (Sombre, Clair ou Teinté) est activé, aucun effet Liquid Glass n’est appliqué aux dossiers de la grille principale ni à la page de gauche (Bibliothèque d’applications).\n- 🖤 **Dossiers Plus Sombres en Mode Sombre** : Les dossiers fermés et ouverts (grille et Bibliothèque) adoptent une teinte obsidienne profonde assortie aux icônes sombres.\n- 🤍 **Dossiers Plus Clairs en Mode Clair** : Les dossiers fermés et ouverts (grille et Bibliothèque) passent sur une surface perle lumineuse avec textes et contrôles foncés parfaitement lisibles.",
   "assets": [
     {
-      "name": "LaunchPad-v1.2.64.zip",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.64/LaunchPad-v1.2.64.zip"
+      "name": "LaunchPad-v1.2.65.zip",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.65/LaunchPad-v1.2.65.zip"
     },
     {
-      "name": "LaunchPad-v1.2.64.dmg",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.64/LaunchPad-v1.2.64.dmg"
+      "name": "LaunchPad-v1.2.65.dmg",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.65/LaunchPad-v1.2.65.dmg"
     }
   ]
 }
