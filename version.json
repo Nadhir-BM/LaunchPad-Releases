@@ -1,16 +1,16 @@
 {
-  "tag_name": "v1.2.53",
-  "name": "LaunchPad v1.2.53",
-  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.53",
-  "body": "### 🚀 Nouveautés de LaunchPad v1.2.53\n\n- 🪟 **Bibliothèque d’Applications Liquid Glass** : Depuis la première page du Launchpad, balayez vers la droite ou cliquez sur la nouvelle icône de grille en bas de l’écran pour accéder à toutes vos applications classées automatiquement par catégories.\n- ✨ **Panneaux Indépendants en Verre Dépoli** : Retrouvez vos apps réparties dans des cartes Liquid Glass translucides à coins arrondis (*Ouvertes récemment*, *Productivité*, *Utilitaires*, *Graphisme & Design*, *Outils de développement*, *Musique*, *Photo & Vidéo*, *Social*, *Masquées*…).\n- ⏱️ **Suivi Automatique des Apps Récentes** : La catégorie *Ouvertes récemment* se met à jour en direct à chaque lancement sans doublon, avec vos icônes haute résolution intactes et lancement direct en 1 clic.\n- 🔍 **Recherche Instantanée par App & Catégorie** : La barre de recherche centrée filtre en temps réel les applications et noms de catégories sans rechargement, avec lancement rapide via Entrée.\n- 🔒 **Dossier Masquées Sécurisé Touch ID** : Vos applications masquées restent protégées derrière Touch ID et peuvent être consultées ou réaffichées en un clic après authentification.",
+  "tag_name": "v1.2.54",
+  "name": "LaunchPad v1.2.54",
+  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.54",
+  "body": "### 🚀 Nouveautés de LaunchPad v1.2.54\n\n- 📐 **Dossiers Carrés Compacts 2×2** : Refonte de la Bibliothèque d’applications avec des dossiers Liquid Glass plus petits, parfaitement carrés (1:1) et centrés avec un format 2×2 épuré laissant respirer le fond d’écran.\n- ⚡ **Optimisation GPU 120 Hz** : Suppression des couches Liquid Glass imbriquées dans les icônes de la bibliothèque, suppression des recalculs au pixel lors du survol et mise en veille de la grille principale en arrière-plan pour une fluidité instantanée.\n- 🛠️ **Correction des Bugs d’Affichage** : Synchronisation rigide de la bande horizontale entre la page 1 et la bibliothèque (zéro chevauchement durant les transitions) et suppression des artefacts sur les coins arrondis des panneaux verre.",
   "assets": [
     {
-      "name": "LaunchPad-v1.2.53.zip",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.53/LaunchPad-v1.2.53.zip"
+      "name": "LaunchPad-v1.2.54.zip",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.54/LaunchPad-v1.2.54.zip"
     },
     {
-      "name": "LaunchPad-v1.2.53.dmg",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.53/LaunchPad-v1.2.53.dmg"
+      "name": "LaunchPad-v1.2.54.dmg",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.54/LaunchPad-v1.2.54.dmg"
     }
   ]
 }
