@@ -1,16 +1,16 @@
 {
-  "tag_name": "v1.2.73",
-  "name": "LaunchPad v1.2.73",
-  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.73",
-  "body": "### 🚀 Nouveautés de LaunchPad v1.2.73\n\n- 💎 **Contour Optique Liquid Glass Ultra-Propre** : Suppression de la double bordure blanche au profit d’un filet Fresnel cristallin unique avec micro-ancrage externe, offrant une silhouette nette sur tous les fonds d’écran (sombres, colorés ou clairs).\n- 🎯 **Compatibilité Universelle avec Toutes les Applications** : Nouveau filtrage topologique des biseaux et arcs de coin macOS d’origine, éliminant les contours fantômes, halos latéraux coupés et résidus périphériques sur les icônes tierces.\n- 📐 **Recadrage Optique Automatique & Découpe Stricte** : Les icônes libres, circulaires ou trop proches des bords (ClipGrab, Parsec, BitTorrent Neo, FineTune, Latest…) sont automatiquement centrées avec une marge harmonieuse et strictement contenues dans la lentille Liquid Glass.\n- ✨ **Lisibilité Parfaite des Glyphes Fins** : Détourage haute précision des icônes minimalistes sur fond clair (comme Command X) avec éclaircissement naturel des symboles sombres sur verre liquide.",
+  "tag_name": "v1.2.74",
+  "name": "LaunchPad v1.2.74",
+  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.74",
+  "body": "### 🚀 Nouveautés de LaunchPad v1.2.74\n\n- 🫧 **Dossiers & Page de Gauche Synchronisés aux 4 Styles Liquid Glass** : Choisir Verre Sombre, Verre Givré, Verre Liquide ou Transparent Cristal transforme désormais instantanément les dossiers de la grille (fermés et ouverts) ainsi que toutes les cartes et modales de la Bibliothèque d’applications à gauche.\n- 🧊 **Rendu Verre Givré Lumineux & Contraste Adaptatif** : En mode Verre Givré, les panneaux de dossiers et de catégories adoptent un verre dépoli glacé assorti d’une typographie sombre haute lisibilité, tout en éclaircissant automatiquement les glyphes sombres (comme Command X) sur les icônes.\n- 🎯 **Centrage Optique Parfait du Détourage** : Le recadrage automatique utilise désormais une projection robuste par masse d’opacité et élimine les micro-reflets périphériques parasites, centrant au pixel près toutes les icônes détourées (Discord, Command X, BitTorrent Neo…).\n- ⚡ **Mise à Jour Automatique du Cache d’Icônes** : Le cache graphique est automatiquement régénéré au premier lancement pour appliquer immédiatement le centrage de précision et la nouvelle harmonie Liquid Glass.",
   "assets": [
     {
-      "name": "LaunchPad-v1.2.73.zip",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.73/LaunchPad-v1.2.73.zip"
+      "name": "LaunchPad-v1.2.74.zip",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.74/LaunchPad-v1.2.74.zip"
     },
     {
-      "name": "LaunchPad-v1.2.73.dmg",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.73/LaunchPad-v1.2.73.dmg"
+      "name": "LaunchPad-v1.2.74.dmg",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.74/LaunchPad-v1.2.74.dmg"
     }
   ]
 }
