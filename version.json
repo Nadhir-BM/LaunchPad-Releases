@@ -1,16 +1,16 @@
 {
-  "tag_name": "v1.2.78",
-  "name": "LaunchPad v1.2.78",
-  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.78",
-  "body": "### 🚀 Nouveautés de LaunchPad v1.2.78\n\n- 🖐️ **Activation Instantanée des Gestes à 3 Doigts** : Dès que vous activez l’autorisation d’Accessibilité dans Réglages Système, le pincement à 3 doigts est activé immédiatement en arrière-plan sans avoir à rouvrir ou relancer LaunchX.\n- ⚡ **Détection Système en Temps Réel** : Écoute directe des notifications système d’Accessibilité macOS pour une réactivité immédiate tout en conservant une consommation nulle au repos.",
+  "tag_name": "v1.2.79",
+  "name": "LaunchPad v1.2.79",
+  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.79",
+  "body": "### 🚀 Nouveautés de LaunchPad v1.2.79\n\n- 🖐️ **Ouverture Directe à 3 Doigts Après Autorisation** : Dès que vous cochez **LaunchX** dans *Réglages Système → Accessibilité*, le geste à 3 doigts devient actif instantanément sans intervention supplémentaire.\n- 🔄 **Reconnexion Système Automatique** : Détection immédiate des changements d’Accessibilité en arrière-plan et réinitialisation silencieuse des capteurs trackpad WindowServer dès l’octroi de la permission.\n- 🪟 **Parcours d’Autorisation Soigné dès le 1er Lancement** : La boîte de dialogue système macOS et Réglages Système restent parfaitement visibles devant le panneau, même après une installation toute neuve ou une mise à jour.",
   "assets": [
     {
-      "name": "LaunchX-v1.2.78.zip",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.78/LaunchX-v1.2.78.zip"
+      "name": "LaunchX-v1.2.79.zip",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.79/LaunchX-v1.2.79.zip"
     },
     {
-      "name": "LaunchX-v1.2.78.dmg",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.78/LaunchX-v1.2.78.dmg"
+      "name": "LaunchX-v1.2.79.dmg",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.79/LaunchX-v1.2.79.dmg"
     }
   ]
 }
