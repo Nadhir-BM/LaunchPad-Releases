@@ -1,16 +1,16 @@
 {
-  "tag_name": "v1.2.76",
-  "name": "LaunchPad v1.2.76",
-  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.76",
-  "body": "### 🚀 Nouveautés de LaunchPad v1.2.76\n\n- 🏗️ **Architecture Modulaire Repensée** : Réorganisation complète du code en modules dédiés (grille, bibliothèque, dossiers, widgets, réglages et système) pour des évolutions plus rapides et plus fiables.\n- ⚡ **Pipeline d’Icônes & Liquid Glass Structuré** : Séparation nette entre l’analyse des icônes, le compositing hors thread principal et les surfaces vitrées pour préserver la fluidité à 120 Hz.\n- 🧹 **Code Allégé & Optimisé** : Suppression des composants obsolètes et centralisation de l’identité technique tout en conservant intégralement vos réglages, licences, caches et dispositions.\n- 🛡️ **Compatibilité & Rétrocompatibilité Préservées** : Toutes vos animations, thèmes, raccourcis, widgets et sauvegardes fonctionnent exactement à l’identique dès le lancement.",
+  "tag_name": "v1.2.77",
+  "name": "LaunchPad v1.2.77",
+  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.77",
+  "body": "### 🚀 Nouveautés de LaunchPad v1.2.77\n\n- ✨ **Nouvelle Identité LaunchX** : L’application adopte officiellement le nom **LaunchX** avec un nouvel identifiant système dédié (`me.LaunchX`) et une interface entièrement harmonisée.\n- 🛡️ **Identité Technique Propre** : Mise à jour complète de l’application, des traductions, des notifications, du menu et du système de sauvegarde vers **LaunchX**.\n- 📦 **Mises à Jour & Packaging Automatisés** : Distribution directe au format `LaunchX.app`, archives `LaunchX-v1.2.77.zip` et `LaunchX-v1.2.77.dmg`.",
   "assets": [
     {
-      "name": "LaunchPad-v1.2.76.zip",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.76/LaunchPad-v1.2.76.zip"
+      "name": "LaunchX-v1.2.77.zip",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.77/LaunchX-v1.2.77.zip"
     },
     {
-      "name": "LaunchPad-v1.2.76.dmg",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.76/LaunchPad-v1.2.76.dmg"
+      "name": "LaunchX-v1.2.77.dmg",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.77/LaunchX-v1.2.77.dmg"
     }
   ]
 }
