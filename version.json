@@ -1,16 +1,16 @@
 {
-  "tag_name": "v1.2.79",
-  "name": "LaunchPad v1.2.79",
-  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.79",
-  "body": "### 🚀 Nouveautés de LaunchPad v1.2.79\n\n- 🖐️ **Ouverture Directe à 3 Doigts Après Autorisation** : Dès que vous cochez **LaunchX** dans *Réglages Système → Accessibilité*, le geste à 3 doigts devient actif instantanément sans intervention supplémentaire.\n- 🔄 **Reconnexion Système Automatique** : Détection immédiate des changements d’Accessibilité en arrière-plan et réinitialisation silencieuse des capteurs trackpad WindowServer dès l’octroi de la permission.\n- 🪟 **Parcours d’Autorisation Soigné dès le 1er Lancement** : La boîte de dialogue système macOS et Réglages Système restent parfaitement visibles devant le panneau, même après une installation toute neuve ou une mise à jour.",
+  "tag_name": "v1.2.80",
+  "name": "LaunchPad v1.2.80",
+  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.80",
+  "body": "### 🚀 Nouveautés de LaunchPad v1.2.80\n\n- ✨ **Nouvelle Identité myLaunch** : L’application adopte officiellement le nom **myLaunch**, jusque dans la barre des menus (`Ouvrir myLaunch`, `Quitter myLaunch`), les fenêtres, les réglages, les notifications et l’installeur DMG.\n- 🏗️ **Code & Projet Alignés** : Renommage intégral des dossiers, fichiers, identifiants et du projet Xcode vers **myLaunch** (`me.myLaunch`).\n- 🔄 **Rétrocompatibilité des Sauvegardes** : Importation toujours compatible avec vos sauvegardes `.backup` existantes et gestion fluide des autorisations d’Accessibilité.",
   "assets": [
     {
-      "name": "LaunchX-v1.2.79.zip",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.79/LaunchX-v1.2.79.zip"
+      "name": "myLaunch-v1.2.80.zip",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.80/myLaunch-v1.2.80.zip"
     },
     {
-      "name": "LaunchX-v1.2.79.dmg",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.79/LaunchX-v1.2.79.dmg"
+      "name": "myLaunch-v1.2.80.dmg",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.80/myLaunch-v1.2.80.dmg"
     }
   ]
 }
