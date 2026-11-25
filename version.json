@@ -1,16 +1,16 @@
 {
-  "tag_name": "v1.2.74",
-  "name": "LaunchPad v1.2.74",
-  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.74",
-  "body": "### 🚀 Nouveautés de LaunchPad v1.2.74\n\n- 🫧 **Dossiers & Page de Gauche Synchronisés aux 4 Styles Liquid Glass** : Choisir Verre Sombre, Verre Givré, Verre Liquide ou Transparent Cristal transforme désormais instantanément les dossiers de la grille (fermés et ouverts) ainsi que toutes les cartes et modales de la Bibliothèque d’applications à gauche.\n- 🧊 **Rendu Verre Givré Lumineux & Contraste Adaptatif** : En mode Verre Givré, les panneaux de dossiers et de catégories adoptent un verre dépoli glacé assorti d’une typographie sombre haute lisibilité, tout en éclaircissant automatiquement les glyphes sombres (comme Command X) sur les icônes.\n- 🎯 **Centrage Optique Parfait du Détourage** : Le recadrage automatique utilise désormais une projection robuste par masse d’opacité et élimine les micro-reflets périphériques parasites, centrant au pixel près toutes les icônes détourées (Discord, Command X, BitTorrent Neo…).\n- ⚡ **Mise à Jour Automatique du Cache d’Icônes** : Le cache graphique est automatiquement régénéré au premier lancement pour appliquer immédiatement le centrage de précision et la nouvelle harmonie Liquid Glass.",
+  "tag_name": "v1.2.75",
+  "name": "LaunchPad v1.2.75",
+  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.75",
+  "body": "### 🚀 Nouveautés de LaunchPad v1.2.75\n\n- 🧊 **Verre Givré Authentique façon Liquid Glass** : Suppression du voile blanc opaque sur les dossiers et la page de gauche en mode Verre Givré, remplacé par la véritable lentille Liquid Glass translucide identique aux icônes.\n- ✨ **Harmonie Totale Icônes, Dossiers & Bibliothèque** : Les dossiers fermés, les dossiers ouverts et toutes les cartes de la Bibliothèque d’applications partagent désormais la même réfraction vitrée givrée, le même éclat diagonal et le même liseré cristallin que vos icônes.\n- 🔍 **Lisibilité Cristalline en Modale** : Les panneaux ouverts en Verre Givré adoptent un verre givré fumé translucide avec typographie blanche nette pour rester parfaitement lisibles sur tout fond d’écran.",
   "assets": [
     {
-      "name": "LaunchPad-v1.2.74.zip",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.74/LaunchPad-v1.2.74.zip"
+      "name": "LaunchPad-v1.2.75.zip",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.75/LaunchPad-v1.2.75.zip"
     },
     {
-      "name": "LaunchPad-v1.2.74.dmg",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.74/LaunchPad-v1.2.74.dmg"
+      "name": "LaunchPad-v1.2.75.dmg",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.75/LaunchPad-v1.2.75.dmg"
     }
   ]
 }
