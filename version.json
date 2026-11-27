@@ -1,16 +1,16 @@
 {
-  "tag_name": "v1.2.80",
-  "name": "LaunchPad v1.2.80",
-  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.80",
-  "body": "### 🚀 Nouveautés de LaunchPad v1.2.80\n\n- ✨ **Nouvelle Identité myLaunch** : L’application adopte officiellement le nom **myLaunch**, jusque dans la barre des menus (`Ouvrir myLaunch`, `Quitter myLaunch`), les fenêtres, les réglages, les notifications et l’installeur DMG.\n- 🏗️ **Code & Projet Alignés** : Renommage intégral des dossiers, fichiers, identifiants et du projet Xcode vers **myLaunch** (`me.myLaunch`).\n- 🔄 **Rétrocompatibilité des Sauvegardes** : Importation toujours compatible avec vos sauvegardes `.backup` existantes et gestion fluide des autorisations d’Accessibilité.",
+  "tag_name": "v1.2.81",
+  "name": "LaunchPad v1.2.81",
+  "html_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/tag/v1.2.81",
+  "body": "### 🚀 Nouveautés de LaunchPad v1.2.81\n\n- 🛡️ **Stabilité renforcée** : myLaunch ne peut plus planter lors de l’analyse des applications, même si une tuile personnalisée partage l’identifiant d’une app installée.\n- 🤏 **Sensibilité du pincement en direct** : le réglage de sensibilité s’applique instantanément aux gestes du trackpad, sans redémarrer l’application.\n- ⌨️ **Touche F4 plus fiable** : l’écoute de la touche myLaunch ne laisse plus de processus fantôme lorsque les réglages changent rapidement.\n- 🔋 **Zéro CPU en arrière-plan** : l’animation de l’égaliseur du widget musique se met en pause dès que myLaunch est masqué.\n- ✨ **Apparence inchangée** : toutes ces optimisations sont invisibles, l’interface reste exactement la même.",
   "assets": [
     {
-      "name": "myLaunch-v1.2.80.zip",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.80/myLaunch-v1.2.80.zip"
+      "name": "myLaunch-v1.2.81.zip",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.81/myLaunch-v1.2.81.zip"
     },
     {
-      "name": "myLaunch-v1.2.80.dmg",
-      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.80/myLaunch-v1.2.80.dmg"
+      "name": "myLaunch-v1.2.81.dmg",
+      "browser_download_url": "https://github.com/Nadhir-BM/LaunchPad-Releases/releases/download/v1.2.81/myLaunch-v1.2.81.dmg"
     }
   ]
 }
